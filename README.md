@@ -1,3 +1,3 @@
 # Python_Pandas
-Python and Pandas is used to import targeted URL (CSV) and output organized data via CSV files.
+Pandas is used to import targeted URL (CSV) and output organized data via CSV files.
 ****Will Need to Change file Path ****
